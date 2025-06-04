@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -40,7 +40,7 @@
     <h1>Welcome to the AMU Test Project</h1>
     <p>This is a sample webpage hosted on GitHub Pages.</p>
     <p>You can edit and upload this file to display your website.</p>
-    <p>Check out the repository at: <a href="https://github.com/Kla-2546/AMU-test-" target="_blank" rel="noopener noreferrer">GitHub Repository</a></p>
+    <p>Check out the repository at: <a href="https://kla-2546.github.io/test-web/" target="_blank" rel="noopener noreferrer">GitHub Repository</a></p>
   </div>
 </body>
 </html>
